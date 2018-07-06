@@ -9,11 +9,11 @@
 - Logo personnel
     - Peut-être plus de liberté ?
 
-## Notions "manquantes"
+## Notions « manquantes »
 
-- Création d'un moodboard
+- Création d’un moodboard
     - Création de palettes de couleurs
-- Utilisation correcte d'une grille !!
+- Utilisation correcte d’une grille !!
     + avec ou sans gouttières
     + placement correct des blocs (ne fût-ce que pas dasn les gouttières… hé oui, on en est là…)
 - Enrichir la culture graphique spécifique au web :
