@@ -1,5 +1,23 @@
 # Cours de graphisme
 
+## Objectifs proposés
+
+Deux axes essentiels sur lesquels se concentrer :
+
+ - axe de la rationnalité visuelle : acquisition d’une certaine rationnalité dans la conception visuelle d’une interface, ce qui inclut
+ 	+ l’utilisation d’une grille afin d’installer un rythme horizontal et vertical et d’aider aux alignements des éléments ;
+ 	+ la mise en place d’une échelle de corps rationnelle pour les textes (voir par exemple [modular scale](http://www.modularscale.com/?16&px&1.333)) ;
+ 	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [adoble Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
+ 	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dasn le web ;
+ 	+ la capacité de décliner une interface sur différents supports / medias ;
+ - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site créativité créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs, ce qui inclut
+ 	+ mise en place d’une démarche de veille, connaissance et compréhension des tendances, des grands courants du web design ;
+ 	+ mise en place d’une démarche de recherche et d’inspiration (création et utilisation d’un moodboard) ;
+ 	+ sélection de visuels adaptés (photos de qualité, illustations, création ou choix adapté du style des icônes, …) ;
+ 	+ sélection de polices adaptées ;
+ 	+ réflexion sur la hiérarchie visuelle (que mettre en évidence pour avoir le plus d’impact ?) ;
+ 	+ réflexion sur les opportunités d’interaction (CTA - *Call to Action*) ;
+
 ## Notions importantes dans projets actuels
 
 - Agencements de couleurs
