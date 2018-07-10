@@ -10,7 +10,7 @@ Deux axes essentiels sur lesquels se concentrer :
  	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [adoble Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
  	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dasn le web ;
  	+ la capacité de décliner une interface sur différents supports / medias ;
- - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site créativité créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs, ce qui inclut
+ - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site (créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs), ce qui inclut
  	+ mise en place d’une démarche de veille, connaissance et compréhension des tendances, des grands courants du web design ;
  	+ mise en place d’une démarche de recherche et d’inspiration (création et utilisation d’un moodboard) ;
  	+ sélection de visuels adaptés (photos de qualité, illustations, création ou choix adapté du style des icônes, …) ;
