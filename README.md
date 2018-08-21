@@ -33,7 +33,7 @@ Deux axes essentiels sur lesquels se concentrer :
     - Création de palettes de couleurs
 - Utilisation correcte d’une grille !!
     + avec ou sans gouttières
-    + placement correct des blocs (ne fût-ce que pas dasn les gouttières… hé oui, on en est là…)
+    + placement correct des blocs (ne fût-ce que pas dans les gouttières…)
 - Enrichir la culture graphique spécifique au web :
     - Parler des grands courants du web design ?
     - Apprendre à faire de la veille ? Séances de partage de veille ?
