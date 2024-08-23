@@ -75,4 +75,48 @@ Deux axes essentiels sur lesquels se concentrer :
 
 - Les grands courants du web design
 
+# Proposition dom 2024
+
+# Proposition de cahier de charges pour le cours de graphisme web
+
+  ## Maîtrise approfondie de Figma
+
+   - Autolayout
+
+   - alignements
+
+   - composants
+
+   - text-styles
+
+   - variables
+
+   - prototypes
+
+   - animations
+
+   - AI ?
+
+   - Le but premier ici est de valoriser tout ce qui dans Figma permet la préparation du travail de l'intégration
+
+     
+
+## Création et utilisation de design systems
+
+Créer des design système est la clé pour un travail rationnel, réutilisable, cohérent, transposable chez l'intégrateur, et facile à modifier. Il s'agit d'extraire toutes les caractéristiques d'un design dans des planches, de manière à disposer d'une sorte de bibliothèque des styles et d'objets réutilisables
+
+https://www.youtube.com/watch?v=MJTCfSFLUGE
+
+
+
+## Méthodologie du design
+
+- Moodboarding
+- wireframing
+- prototypage low-fi
+- prototypage hi-fi
+
+## Méthode d'enseignement
+
+En plus de la compétence, les étudiants devraient retirer de ce cours un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça consiste à recopier de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. Donc, recopier, faire du reverse engineering, devrait être la méthode.
 
