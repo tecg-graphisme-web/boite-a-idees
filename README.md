@@ -75,7 +75,7 @@ Deux axes essentiels sur lesquels se concentrer :
 
 - Les grands courants du web design
 
-# Proposition dom 2024
+------------------
 
 # Proposition de cahier de charges pour le cours de graphisme web
 
