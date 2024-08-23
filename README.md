@@ -1,4 +1,4 @@
-# Cours de graphisme
+# Cours de graphisme web
 
 ## Objectifs proposés
 
