@@ -4,7 +4,9 @@
 
 ## Préliminaire
 
-Naturellement, ce cours est un cours du tronc commun et les propositions qui suivent ne sont attentives qu'aux besoins du profil de formation pour les élèves de l'orientation Web. Le cours de graphisme ne devrait pas rester en l'état un cours du tronc commun.
+Ce cours est un cours du tronc commun et les propositions qui suivent ne sont attentives qu'aux besoins du profil de formation pour les élèves de l'orientation Web. Il s'agit donc, en l'état actuel de la situation d'une proposition pour une **partie** de la fiche ECTS du cours, celle qui concerne spécifiquement le cours de l'orientation web.
+
+Note supplémentaire : Idéalement, dans le futur, le cours de graphisme ne devrait pas rester un cours du tronc commun.
 
 
 
