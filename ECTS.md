@@ -12,7 +12,7 @@ Note supplémentaire : Idéalement, dans le futur, le cours de graphisme ne devr
 
 ## Prérequis
 
-Le cours de design web de première année semble être un prérequis naturel pour ce cours. Cependant, nous avons pris le parti d'assouplir les possibilités de constitution des PAEs en diminuant autant que possible les prérequis entre cours. Le cours étant de plus un cours de tronc commun, il ne saurait être question de faire d'un cours de design web un prérequis  pour celui-ci.
+Le cours de design web de première année semble être un prérequis naturel pour ce cours. Cependant, nous avons pris le parti d'assouplir les possibilités de constitution des PAEs en diminuant autant que possible les prérequis entre cours. Le cours étant de plus un cours de tronc commun, il ne saurait être question de faire d'un cours de design web un prérequis  pour celui-ci. Il en va de même en ce qui concerne le cours de typograhpie de première année.
 
 ## Acquis d'apprentissage sanctionnés par l'évaluation
 
