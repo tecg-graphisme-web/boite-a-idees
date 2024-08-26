@@ -17,7 +17,7 @@ Le but premier ici est de valoriser tout ce qui dans Figma permet la préparatio
 
 ### Création et utilisation de design systems
 
-Créer des _design systèms_ est la clé pour un travail rationnel, réutilisable, cohérent, transposable chez l'intégrateur, et facile à modifier. Il s'agit d'extraire toutes les caractéristiques d'un design dans des planches, de manière à disposer d'une sorte de bibliothèque des styles et d'objets réutilisables
+Créer des _design systems_ est la clé pour un travail rationnel, réutilisable, cohérent, transposable chez l'intégrateur, et facile à modifier. Il s'agit d'extraire toutes les caractéristiques d'un design dans des planches, de manière à disposer d'une sorte de bibliothèque des styles et d'objets réutilisables
 
 https://www.youtube.com/watch?v=MJTCfSFLUGE
 
@@ -44,6 +44,7 @@ Deux axes essentiels sur lesquels se concentrer :
    + la capacité de créer / décliner / adapter / enrichier un kit UI ;
    + la capacité de créer des _guidelines_, un _styleguide_;
  	+ la capacité de décliner une interface sur différents supports / medias (concept de responsive design ou design modulaire lié au device avec notamment la notion de variants dans Figma) ;
+   + la maîtrise du vocabulaire adapté (élaboration d'un glossaire spécifique des termes techniques du domaine) ;
    + cf. les 8 principes de base des fondamentaux du design de Ellen Lupton ;
  - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site (créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs), ce qui inclut
  	+ mise en place d’une démarche de veille ;
