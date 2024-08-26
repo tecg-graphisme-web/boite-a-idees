@@ -10,7 +10,7 @@ Naturellement, ce cours est un cours du tronc commun et les propositions qui sui
 
 ## Prérequis
 
-Le cours de design web de première année semble être un prérequis naturel pour ce cours. Cependant, nous avons pris le parti de ne plus imposer dans l'orientation Web de prérequis, forcés de constater que les apprentissages relatifs à un cours peuvent souvent compenser et même enrichir les apprentissages des cours supposés prérequis. Le cours étant de plus un cours de tronc commun, il ne saurait être question de faire d'un cours de design web un prérequis  pour celui-ci.
+Le cours de design web de première année semble être un prérequis naturel pour ce cours. Cependant, nous avons pris le parti d'assouplir les possibilités de constitution des PAEs en diminuant autant que possible les prérequis entre cours. Le cours étant de plus un cours de tronc commun, il ne saurait être question de faire d'un cours de design web un prérequis  pour celui-ci.
 
 ## Acquis d'apprentissage sanctionnés par l'évaluation
 
