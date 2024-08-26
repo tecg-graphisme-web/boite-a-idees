@@ -49,7 +49,7 @@ Deux axes essentiels sur lesquels se concentrer :
    + cf. les 8 principes de base des fondamentaux du design de Ellen Lupton ;
  - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site (créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs), ce qui inclut
  	+ mise en place d’une démarche de veille ;
-   + connaissance et compréhension des tendances, des grands courants du graphisme web et de leurs déterminants ainsi que des types d'animation (effets de _parallax_, _fade_, _dissolve_, _bounce_, …) => enrichir la culture graphique spécifique au web ;
+   + connaissance et compréhension des tendances, des grands courants du graphisme web (skewmorphisme, flat design, minimalisme, neo-skewmorphisme, …) et de leurs déterminants ainsi que des types d'animation (effets de _parallax_, _fade_, _dissolve_, _bounce_, …) => enrichir la culture graphique spécifique au web ;
  	+ sélection de visuels adaptés (photos de qualité, illustations, création ou choix adapté du style des icônes, …) ;
  	+ réflexion sur les choix typographiques (sélection de polices adaptées, agencements, …) ;
    + réflexion sur les couleurs (contraste, lisibilité, notion de palette de couleurs, …) ;
