@@ -4,89 +4,66 @@
 
 ### Maîtrise approfondie de Figma
 
-   - Autolayout
-
-   - alignements
-
-   - composants
-
-   - text-styles
-
-   - variables
-
-   - prototypes
-
-   - animations
-
+   - autolayout ;
+   - alignements ;
+   - composants ;
+   - text-styles ;
+   - variables ;
+   - prototypes ;
+   - animations ;
    - AI ?
 
-   - Le but premier ici est de valoriser tout ce qui dans Figma permet la préparation du travail de l'intégration
+Le but premier ici est de valoriser tout ce qui dans Figma permet la préparation du travail de l'intégration.
 
 ### Création et utilisation de design systems
 
-Créer des design système est la clé pour un travail rationnel, réutilisable, cohérent, transposable chez l'intégrateur, et facile à modifier. Il s'agit d'extraire toutes les caractéristiques d'un design dans des planches, de manière à disposer d'une sorte de bibliothèque des styles et d'objets réutilisables
+Créer des _design systèms_ est la clé pour un travail rationnel, réutilisable, cohérent, transposable chez l'intégrateur, et facile à modifier. Il s'agit d'extraire toutes les caractéristiques d'un design dans des planches, de manière à disposer d'une sorte de bibliothèque des styles et d'objets réutilisables
 
 https://www.youtube.com/watch?v=MJTCfSFLUGE
 
-### Méthodologie du design
+### Avis / suggestion / remarque concernant la méthode d'enseignement
 
-- Moodboarding
-- wireframing
-- prototypage low-fi
-- prototypage hi-fi
+En plus de la compétence, les étudiants devraient retirer de leur formation un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça dans un cours comme le cours de graphimsme dont le niveau de maîtrise devrait selon nous se concerntrer sur les acquis de base (prérequis pour le cours de design web consacré quant à lui au niveau de maîtrise avancée) consisterait à recopier de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. 
 
-### Méthode d'enseignement
-
-En plus de la compétence, les étudiants devraient retirer de ce cours un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça consiste à recopier de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. Donc, recopier, faire du reverse engineering, devrait être la méthode.
+Donc,
+- analyser une interface (en mettant l'accent, notamment, sur les composants réutilislisables – idée d'extraire des patterns, par exemple sur le menus, ainsi que sur les usages pertinenst et habituels sur le web) ;
+- recopier, faire du reverse engineering, mettre en place des déclinaisons qui explorent des extrêmes et en commenter les impacts visuels
+serait une méthode, nous semble-il, adaptée.
 
 ## Proposition pour le objectifs du cours
 
 Deux axes essentiels sur lesquels se concentrer :
 
  - axe de la rationnalité visuelle : acquisition d’une certaine rationnalité dans la conception visuelle d’une interface, ce qui inclut
- 	+ l’utilisation d’une grille afin d’installer un rythme horizontal et vertical et d’aider aux alignements des éléments ;
+   + la maîtrise de l'outil Figma et des concepts sous-jacents (voir ci-dessus et fiche ECTS) ; 
+   + l’utilisation d’une grille afin d’installer un rythme horizontal et vertical et d’aider aux alignements des éléments (important d'intégrer dès le départ le concept de grille fluide qui prévaut aujourd'hui) ;
+   + l'utilisation de composants (concept de design modulaire lié au contenu avec notamment la notion de composants dans Figma) ;
  	+ la mise en place d’une échelle de corps rationnelle pour les textes (voir par exemple [modular scale](http://www.modularscale.com/?16&px&1.333)) ;
  	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [adoble Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
- 	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dasn le web ;
- 	+ la capacité de décliner une interface sur différents supports / medias ;
+ 	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dans le web ;
+   + la capacité de créer / décliner / adapter / enrichier un kit UI ;
+   + la capacité de créer des _guidelines_, un _styleguide_;
+ 	+ la capacité de décliner une interface sur différents supports / medias (concept de responsive design ou design modulaire lié au device avec notamment la notion de variants dans Figma) ;
+   + cf. les 8 principes de base des fondamentaux du design de Ellen Lupton ;
  - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site (créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs), ce qui inclut
- 	+ mise en place d’une démarche de veille, connaissance et compréhension des tendances, des grands courants du web design ;
- 	+ mise en place d’une démarche de recherche et d’inspiration (création et utilisation d’un moodboard) ;
+ 	+ mise en place d’une démarche de veille ;
+   + connaissance et compréhension des tendances, des grands courants du gréphisme web et de leurs déterminants ainsi que des types d'animation (effets de _parallax_, _fade_, _dissolve_, _bounce_, …) => enrichir la culture graphique spécifique au web ;
  	+ sélection de visuels adaptés (photos de qualité, illustations, création ou choix adapté du style des icônes, …) ;
- 	+ sélection de polices adaptées ;
+ 	+ réflexion sur les choix typographiques (sélection de polices adaptées, agencements, …) ;
+   + réflexion sur les couleurs (contraste, lisibilité, notion de palette de couleurs, …) ;
  	+ réflexion sur la hiérarchie visuelle (que mettre en évidence pour avoir le plus d’impact ?) ;
  	+ réflexion sur les opportunités d’interaction (CTA - *Call to Action*) ;
 
-## Notions importantes dans projets actuels
+## Idées pour des projets en lien avec le web (juste des idées, non exhaustif)
 
-- Agencements de couleurs
-    - Contraste et lisibilité
-- Choix typographiques
-    - Agencements
-- Logo personnel
-    - Peut-être plus de liberté ?
-
-## Notions « manquantes »
-
-- Création d’un moodboard
-    - Création de palettes de couleurs
-- Utilisation correcte d’une grille !!
-    + avec ou sans gouttières
-    + placement correct des blocs (ne fût-ce que pas dans les gouttières…)
-- Enrichir la culture graphique spécifique au web :
-    - Parler des grands courants du web design ?
-    - Apprendre à faire de la veille ? Séances de partage de veille ?
-    - Apprendre à s'inspirer : par ex. visiter suffisamment de sites en lien avec le thème (aussi bien au niveau de l'univers qu'au niveau des fonctionnalités, aller voir les sites concurrents, aussi au niveau des éléments d'interface), alimenter suffisamment son moodboard, utiliser vraiment des éléments de son moodboard et pouvoir argumenter ;
-    - Connaissance et bonne utilisation de certains guidelines, par ex. pour le mobile ()
-
-## Idées pour des projets (en lien avec le web)
-
-- Création d'un *set* d'icônes
+- Création / adaptation d'un *set* d'icônes
     - Notions de SVG
     - Respect d'un style
-- Création d'un *UI Kit*
+- Création / adaptation d'un *UI Kit*
     - Prévoir animation / effet au survol (État avant/après)
     - https://dribbble.com/search?q=ui+kit
+- Création / adaptation d'un *styleguide* ;
+- Faire des découpages (ou adapter des découpages fournis) de pages dans Figma, ou par exmeple, en faire des variantes en explorant des extrêlmes pour en évluer les impacts visuels
 - Projet avec contraintes
     - Couleurs (nombre limité, contraste)
     - Uniquement typographique
@@ -95,11 +72,7 @@ Deux axes essentiels sur lesquels se concentrer :
     - Avec plus ou moins d'éléments de menu
 - Création d'une landing page
     - À partir d'une photo (prise de vue en cours)
-- Création d'un motif
-    - Pourrait servir de background sur un site
-- Wireframes
-    - Apprendre à les sketcher sur papier
-    - https://i.pinimg.com/564x/58/0f/22/580f226d859b5552bad829a134849a49.jpg
+  
 
 ## Trouver des contres-exemples
 
