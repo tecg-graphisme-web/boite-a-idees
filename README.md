@@ -64,7 +64,7 @@ Deux axes essentiels sur lesquels se concentrer :
     - https://dribbble.com/search?q=ui+kit
 - Création / adaptation d'un *styleguide* ;
 - Faire des découpages (ou adapter des découpages fournis) de pages dans Figma, ou par exmeple, en faire des variantes en explorant des extrêlmes pour en évluer les impacts visuels
-- Reprendre les principes du design d'Ellen Lupton et faire une adaptation d'un principe avec des variantes extrêmes et en analyser les impacts visuels
+- Reprendre les principes de base du design d'Ellen Lupton (gestion de l'espace, du rythme, des contrastes, de la couleur, des polices, des animations, etc.) et faire une adaptation d'un principe avec des variantes extrêmes et en analyser les impacts visuels
 - Projet avec contraintes
     - Couleurs (nombre limité, contraste)
     - Uniquement typographique
@@ -143,8 +143,11 @@ N.B. À mettre à jour pour envisager les nouvelles tendances du graphisme web (
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) : table des matières (par exemple : Components (Accordion, Alerts, Badge, Breadcrumb, Buttons, Button group, Card, Carousel, Close button, Collapse, Dropdowns; List group, Modal, Navbar, Offcanvas, Pagination, Placeholders, Popovers, Progress, Scrollspy, Spinners, Toasts, Tooltips, …), notamment pour compléter le glossaire au niveau des éléments d'interface
 - …
  
+### Prérequis
 
-
+- Ergonomie Web d'Amélie Boucher
+- règles WCAG
+- Cours et livre de typographie
 ------------------
 
 
