@@ -27,7 +27,9 @@ En plus de la compétence, les étudiants devraient retirer de leur formation un
 
 Donc,
 - analyser une interface (en mettant l'accent, notamment, sur les composants réutilisables – idée d'extraire des patterns, par exemple sur le menus, ainsi que sur les usages pertinents et habituels sur le web) ;
-- recopier, faire du reverse-engineering, mettre en place des déclinaisons qui explorent des extrêmes et en commenter les impacts visuels serait une méthode, nous semble-il, adaptée.
+- recopier, faire du reverse-engineering, mettre en place des déclinaisons qui explorent des extrêmes et en commenter les impacts visuels
+
+serait une méthode, nous semble-il, adaptée.
 
 ## Proposition pour le objectifs du cours
 
