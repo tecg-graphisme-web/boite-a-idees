@@ -26,9 +26,8 @@ https://www.youtube.com/watch?v=MJTCfSFLUGE
 En plus de la compétence, les étudiants devraient retirer de leur formation un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça dans un cours comme le cours de graphimsme dont le niveau de maîtrise devrait selon nous se concerntrer sur les acquis de base (prérequis pour le cours de design web consacré quant à lui au niveau de maîtrise avancée) consisterait à recopier de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. 
 
 Donc,
-- analyser une interface (en mettant l'accent, notamment, sur les composants réutilislisables – idée d'extraire des patterns, par exemple sur le menus, ainsi que sur les usages pertinenst et habituels sur le web) ;
-- recopier, faire du reverse engineering, mettre en place des déclinaisons qui explorent des extrêmes et en commenter les impacts visuels
-serait une méthode, nous semble-il, adaptée.
+- analyser une interface (en mettant l'accent, notamment, sur les composants réutilisables – idée d'extraire des patterns, par exemple sur le menus, ainsi que sur les usages pertinents et habituels sur le web) ;
+- recopier, faire du reverse-engineering, mettre en place des déclinaisons qui explorent des extrêmes et en commenter les impacts visuels serait une méthode, nous semble-il, adaptée.
 
 ## Proposition pour le objectifs du cours
 
@@ -38,17 +37,17 @@ Deux axes essentiels sur lesquels se concentrer :
    + la maîtrise de l'outil Figma et des concepts sous-jacents (voir ci-dessus et fiche ECTS) ; 
    + l’utilisation d’une grille afin d’installer un rythme horizontal et vertical et d’aider aux alignements des éléments (important d'intégrer dès le départ le concept de grille fluide qui prévaut aujourd'hui) ;
    + l'utilisation de composants (concept de design modulaire lié au contenu avec notamment la notion de composants dans Figma) ;
- 	+ la mise en place d’une échelle de corps rationnelle pour les textes (voir par exemple [modular scale](http://www.modularscale.com/?16&px&1.333)) ;
- 	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [adoble Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
+ 	+ la mise en place d’une échelle de corps rationnelle pour les textes (voir par exemple [modular scale](http://www.modularscale.com)) ;
+ 	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [Adobe Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
  	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dans le web ;
-   + la capacité de créer / décliner / adapter / enrichier un kit UI ;
+   + la capacité de créer / décliner / adapter / enrichir un kit UI ;
    + la capacité de créer des _guidelines_, un _styleguide_;
  	+ la capacité de décliner une interface sur différents supports / medias (concept de responsive design ou design modulaire lié au device avec notamment la notion de variants dans Figma) ;
    + la maîtrise du vocabulaire adapté (élaboration d'un glossaire spécifique des termes techniques du domaine) ;
    + cf. les 8 principes de base des fondamentaux du design de Ellen Lupton ;
  - axe de la créativité pragmatique, des choix : acquisition d’une sensibilité vis-à-vis de la communcation émotionnelle à mettre en place dans un site (créer un visuel adéquat aux objectifs de communication, qu’ils soient économiques, persuasifs), ce qui inclut
  	+ mise en place d’une démarche de veille ;
-   + connaissance et compréhension des tendances, des grands courants du gréphisme web et de leurs déterminants ainsi que des types d'animation (effets de _parallax_, _fade_, _dissolve_, _bounce_, …) => enrichir la culture graphique spécifique au web ;
+   + connaissance et compréhension des tendances, des grands courants du graphisme web et de leurs déterminants ainsi que des types d'animation (effets de _parallax_, _fade_, _dissolve_, _bounce_, …) => enrichir la culture graphique spécifique au web ;
  	+ sélection de visuels adaptés (photos de qualité, illustations, création ou choix adapté du style des icônes, …) ;
  	+ réflexion sur les choix typographiques (sélection de polices adaptées, agencements, …) ;
    + réflexion sur les couleurs (contraste, lisibilité, notion de palette de couleurs, …) ;
@@ -65,22 +64,13 @@ Deux axes essentiels sur lesquels se concentrer :
     - https://dribbble.com/search?q=ui+kit
 - Création / adaptation d'un *styleguide* ;
 - Faire des découpages (ou adapter des découpages fournis) de pages dans Figma, ou par exmeple, en faire des variantes en explorant des extrêlmes pour en évluer les impacts visuels
+- Reprendre les principes du design d'Ellen Lupton et faire une adaptation d'un principe avec des variantes extrêmes et en analyser les impacts visuels
 - Projet avec contraintes
     - Couleurs (nombre limité, contraste)
     - Uniquement typographique
 - Création d'un menu de navigation
     - Selon un thème
-    - Avec plus ou moins d'éléments de menu
-- Création d'une landing page
-    - À partir d'une photo (prise de vue en cours)
-  
-
-## Trouver des contres-exemples
-
-- Icônes
-    - Trop de couleurs : "percer", garder une couleur
-    - Garder les mêmes proportions autour de l'icône (ex.: cercle)
-- http://www.csszengarden.com/
+    - Avec plus ou moins d'éléments de menu  
 
 ## Outils
 
