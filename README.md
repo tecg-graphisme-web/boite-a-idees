@@ -43,7 +43,7 @@ Deux axes essentiels sur lesquels se concentrer :
  	+ l’utilisation d’un référentiel de couleurs cohérent explicite (palette et couleurs associées à des fonctions, voir par exemple [Adobe Kuler](https://color.adobe.com/fr/create/color-wheel) pour la création d’une palette de couleurs) ;
  	+ la création d’une iconographie cohérente au sein du site et en référence aux conventions les plus habituelles rencontrées dans le web ;
    + la capacité de créer / décliner / adapter / enrichir un kit UI ;
-   + la capacité de créer des _guidelines_, un _styleguide_;
+   + la capacité de créer / décliner / adapter / enrichir des _guidelines_, un _styleguide_;
  	+ la capacité de décliner une interface sur différents supports / medias (concept de responsive design ou design modulaire lié au device avec notamment la notion de variants dans Figma) ;
    + la maîtrise du vocabulaire adapté (élaboration d'un glossaire spécifique des termes techniques du domaine) ;
    + cf. les 8 principes de base des fondamentaux du design de Ellen Lupton ;
