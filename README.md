@@ -148,9 +148,8 @@ N.B. À mettre à jour pour envisager les nouvelles tendances du graphisme web (
 ### Prérequis
 
 - Ergonomie Web d'Amélie Boucher
-- règles WCAG
-- Cours et livre de typographie
-------------------
+- Règles du WCAG : https://www.monparcourshandicap.gouv.fr/glossaire/wcag#:~:text=Les%20personnes%20en%20situation%20de,difficultés%20à%20naviguer%20sur%20Internet
+- Cours et livre de typographie (voir Xavier Spirlet)
 
 
 
