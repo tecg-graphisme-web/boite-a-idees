@@ -24,13 +24,13 @@ Le cours de design web de première année est un prérequis naturel pour ce cou
 
 ## Contenus
 
-La priorité absolue est la maîtrise du logiciel Figma en ce compris les concepts sous-jacents à la conception du design graphique d'un media web et les méthodes de construction permises par le logiciel et qui sont des standards de facto de tout media web actuel (concepts de composants, variants, design fluide, design d'animation, …). Le logiciel Figma est aujourd'hui la plateforme de référence pour la conception graphique et la collaboration sur les designs d'interface. Pour un designer interactif, il occupe une place aussi imposante que la suite Adobe pour un acteur du _print_. Il permet de préparer le travail d'intégration dans ses moindres détails et permet de rationnaliser la conception. Il est conçu pour permettre au designer de penser son travail dans le _mindset_ du technicien qui sera chargé de le réaliser ensuite.
+La priorité absolue est la maîtrise du logiciel Figma (autolayout, alignements, composants et variants, variables, text-styles, prototypes, animations, Figma slides) en ce compris les concepts sous-jacents à la conception du design graphique d'un media web et les méthodes de construction permises par le logiciel et qui sont des standards de facto de tout media web actuel (design fluide, design modulaire — lié au device d'une part avec la notion de variants, lié au contenu d'autre part avec la notion de composants, design d'animation, …). Le logiciel Figma est aujourd'hui la plateforme de référence pour la conception graphique et la collaboration sur les designs d'interface. Pour un designer interactif, il occupe une place aussi imposante que la suite Adobe pour un acteur du _print_. Il permet de préparer le travail d'intégration dans ses moindres détails et permet de rationnaliser la conception. Il est conçu pour permettre au designer de penser son travail dans le _mindset_ du technicien qui sera chargé de le réaliser ensuite.
 
-Les bases du graphisme – typographie, couleurs, contrastes, espacements, alignements, rythme, grilles, systèmes de mise en page, textures, hiérarchie, animation.
+Les bases du graphisme – typographie, couleurs, contrastes, gestion de l'espace, espacements, alignements, rythme, grilles, systèmes de mise en page, textures, hiérarchie et échelles de corps, animations.
 
 Vocabulaire du graphisme et vocabulaire des composants interfaces. La constitution d'un glossaire par les élèves au fur et à mesure de l'évolution du cours, pourrait aider à apprendre ce vocabulaire.
 
-Culture du graphisme et du graphisme web en particulier, à la fois à travers la présentation historique des grands courants du graphisme web (skewmorphisme, flat design, minimalisme, neo-skewmorphisme, …) et de leurs déterminants, et le développement de l'attitude de veille.
+Culture du graphisme et du graphisme web en particulier, à la fois à travers la présentation historique des grands courants du graphisme web (skewmorphisme, flat design, minimalisme, neo-skewmorphisme, …) et de leurs déterminants, et à travers le développement de l'attitude de veille.
 
 Analyse de sites (du point de vue de la communication graphique), reverse engineering (méthode de déconstruction, comprendre comment c'est fait), créations originales (apporter des modifications à des projets existants).
 
