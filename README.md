@@ -58,6 +58,8 @@ Deux axes essentiels sur lesquels se concentrer :
 
 ## Idées pour des projets en lien avec le web (juste des idées, non exhaustif)
 
+- Faire des découpages (ou adapter des découpages fournis) de pages dans Figma, ou par exmeple, en faire des variantes en explorant des extrêlmes pour en évluer les impacts visuels
+- Reprendre les principes de base du design d'Ellen Lupton (gestion de l'espace, du rythme, des contrastes, de la couleur, des polices, des animations, etc.) et faire une adaptation d'un principe avec des variantes extrêmes et en analyser les impacts visuels
 - Création / adaptation d'un *set* d'icônes
     - Notions de SVG
     - Respect d'un style
@@ -65,8 +67,6 @@ Deux axes essentiels sur lesquels se concentrer :
     - Prévoir animation / effet au survol (État avant/après)
     - https://dribbble.com/search?q=ui+kit
 - Création / adaptation d'un *styleguide* ;
-- Faire des découpages (ou adapter des découpages fournis) de pages dans Figma, ou par exmeple, en faire des variantes en explorant des extrêlmes pour en évluer les impacts visuels
-- Reprendre les principes de base du design d'Ellen Lupton (gestion de l'espace, du rythme, des contrastes, de la couleur, des polices, des animations, etc.) et faire une adaptation d'un principe avec des variantes extrêmes et en analyser les impacts visuels
 - Projet avec contraintes
     - Couleurs (nombre limité, contraste)
     - Uniquement typographique
