@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=MJTCfSFLUGE
 
 ### Avis / suggestion / remarque concernant la méthode d'enseignement
 
-En plus de la compétence, les étudiants devraient retirer de leur formation un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça dans un cours comme le cours de graphimsme dont le niveau de maîtrise devrait selon nous se concerntrer sur les acquis de base (prérequis pour le cours de design web consacré quant à lui au niveau de maîtrise avancée) consisterait à recopier de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. 
+En plus de la compétence, les étudiants devraient retirer de leur formation un portfolio. Il est donc important de les faire s'entraîner. La meilleure approche pour ça dans un cours comme le cours de graphimsme dont le niveau de maîtrise devrait selon nous se concerntrer sur les acquis de base (prérequis pour le cours de design web consacré quant à lui au niveau de maîtrise avancée) consisterait à analyser / recopier / adapter / décliner de bons designs existants plutôt qu'ajouter une couche qui les obligerait à trouver de l'inspiration. La créativité sera de toute façon mobilisée dans les cours de design web et de projet web et ce cours de graphisme propose la découverte du B.A.BA. 
 
 Donc,
 - analyser une interface (en mettant l'accent, notamment, sur les composants réutilisables – idée d'extraire des patterns, par exemple sur le menus, ainsi que sur les usages pertinents et habituels sur le web) ;
